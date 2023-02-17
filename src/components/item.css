@@ -1,0 +1,7 @@
+.item {
+    display: flex;
+    margin: 5px;
+    border: solid green 2px;
+    padding: 3px;
+    justify-content: space-between;
+}
